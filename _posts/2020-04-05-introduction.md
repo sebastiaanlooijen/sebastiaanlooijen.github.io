@@ -1,6 +1,0 @@
----
-layout: post
-title: Eupen 
----
-
-![Eupen](/assets/images/eupen.jpg)
