@@ -4,7 +4,7 @@
  <title>Sebastiaan Looijen</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-11-24T13:04:03+01:00</updated>
+ <updated>2020-11-28T11:34:39+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Sebastiaan Looijen</name>
@@ -13,47 +13,20 @@
 
  
  <entry>
-   <title>Booijmans</title>
-   <link href="http://localhost:4000/2020/04/06/introduction/"/>
-   <updated>2020-04-06T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2020/04/06/introduction</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/booijmans.jpg&quot; alt=&quot;Booijmans&quot; /&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Eupen</title>
-   <link href="http://localhost:4000/2020/04/05/introduction/"/>
-   <updated>2020-04-05T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2020/04/05/introduction</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/eupen.jpg&quot; alt=&quot;Eupen&quot; /&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Skyline</title>
-   <link href="http://localhost:4000/2020/04/04/introduction/"/>
-   <updated>2020-04-04T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2020/04/04/introduction</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/skyline.jpg&quot; alt=&quot;Skyline&quot; height=&quot;600px&quot; /&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Erasmusbrug</title>
-   <link href="http://localhost:4000/2020/02/04/introduction/"/>
-   <updated>2020-02-04T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2020/02/04/introduction</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/brug.jpg&quot; alt=&quot;Brug&quot; /&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>G-wagon</title>
-   <link href="http://localhost:4000/2019/04/04/photo/"/>
-   <updated>2019-04-04T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2019/04/04/photo</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/gwagon.jpg&quot; alt=&quot;G-wagon&quot; /&gt;&lt;/p&gt;
+   <link href="http://localhost:4000/2020/11/28/photo/"/>
+   <updated>2020-11-28T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2020/11/28/photo</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;./assets/images/g-wagon.jpg&quot; alt=&quot;G-wagon&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Introduction</title>
+   <link href="http://localhost:4000/2020/11/24/introduction/"/>
+   <updated>2020-11-24T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2020/11/24/introduction</id>
+   <content type="html">&lt;p&gt;Photos will follow.&lt;/p&gt;
 </content>
  </entry>
  
