@@ -4,13 +4,22 @@
  <title>Sebastiaan Looijen</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-12-03T09:19:13+01:00</updated>
+ <updated>2020-12-08T10:06:29+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Sebastiaan Looijen</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Erasmusbrug</title>
+   <link href="http://localhost:4000/2020/12/07/photo/"/>
+   <updated>2020-12-07T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2020/12/07/photo</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;./assets/images/erasmusbrug.jpg&quot; alt=&quot;Erasmusbrug&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Eupen</title>
