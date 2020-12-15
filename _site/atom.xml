@@ -3,9 +3,9 @@
 
  <title>Sebastiaan Looijen</title>
  <link href="/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2020-12-08T15:20:11+01:00</updated>
- <id>http://localhost:4000</id>
+ <link href="/"/>
+ <updated>2020-12-15T14:16:05+01:00</updated>
+ <id></id>
  <author>
    <name>Sebastiaan Looijen</name>
    <email></email>
@@ -13,46 +13,64 @@
 
  
  <entry>
+   <title>Prachtig</title>
+   <link href="/2020/12/14/photo/"/>
+   <updated>2020-12-14T00:00:00+01:00</updated>
+   <id>/2020/12/14/photo</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;./assets/images/prachtig.jpg&quot; alt=&quot;Prachtig&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Essenburgpark</title>
+   <link href="/2020/12/10/photo/"/>
+   <updated>2020-12-10T00:00:00+01:00</updated>
+   <id>/2020/12/10/photo</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/essenburgpark.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Erasmusbrug</title>
-   <link href="http://localhost:4000/2020/12/07/photo/"/>
+   <link href="/2020/12/07/photo/"/>
    <updated>2020-12-07T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2020/12/07/photo</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;./assets/images/erasmusbrug.jpg&quot; alt=&quot;Erasmusbrug&quot; /&gt;&lt;/p&gt;
+   <id>/2020/12/07/photo</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/erasmusbrug.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Eupen</title>
-   <link href="http://localhost:4000/2020/12/03/photo/"/>
+   <link href="/2020/12/03/photo/"/>
    <updated>2020-12-03T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2020/12/03/photo</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;./assets/images/eupen.jpg&quot; alt=&quot;Eupen&quot; /&gt;&lt;/p&gt;
+   <id>/2020/12/03/photo</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/eupen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Boijmans</title>
-   <link href="http://localhost:4000/2020/12/02/photo/"/>
+   <link href="/2020/12/02/photo/"/>
    <updated>2020-12-02T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2020/12/02/photo</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;./assets/images/boijmans.jpg&quot; alt=&quot;Boijmans&quot; /&gt;&lt;/p&gt;
+   <id>/2020/12/02/photo</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/boijmans.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>G-wagon</title>
-   <link href="http://localhost:4000/2020/11/28/photo/"/>
+   <link href="/2020/11/28/photo/"/>
    <updated>2020-11-28T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2020/11/28/photo</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;./assets/images/g-wagon.jpg&quot; alt=&quot;G-wagon&quot; /&gt;&lt;/p&gt;
+   <id>/2020/11/28/photo</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/g-wagon.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Introduction</title>
-   <link href="http://localhost:4000/2020/11/24/introduction/"/>
+   <link href="/2020/11/24/introduction/"/>
    <updated>2020-11-24T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2020/11/24/introduction</id>
+   <id>/2020/11/24/introduction</id>
    <content type="html">&lt;p&gt;Photos will follow.&lt;/p&gt;
 </content>
  </entry>
