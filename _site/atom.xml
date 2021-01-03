@@ -4,74 +4,38 @@
  <title>Sebastiaan Looijen</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2020-12-15T14:16:05+01:00</updated>
+ <updated>2021-01-03T10:33:24+01:00</updated>
  <id></id>
  <author>
-   <name>Sebastiaan Looijen</name>
+   <name>Sebastiaan</name>
    <email></email>
  </author>
 
  
  <entry>
-   <title>Prachtig</title>
-   <link href="/2020/12/14/photo/"/>
-   <updated>2020-12-14T00:00:00+01:00</updated>
-   <id>/2020/12/14/photo</id>
+   <title>Prachtig | Rotterdam</title>
+   <link href="/2020/12/11/photo/"/>
+   <updated>2020-12-11T00:00:00+01:00</updated>
+   <id>/2020/12/11/photo</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;./assets/images/prachtig.jpg&quot; alt=&quot;Prachtig&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Essenburgpark</title>
-   <link href="/2020/12/10/photo/"/>
-   <updated>2020-12-10T00:00:00+01:00</updated>
-   <id>/2020/12/10/photo</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/essenburgpark.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Erasmusbrug</title>
-   <link href="/2020/12/07/photo/"/>
-   <updated>2020-12-07T00:00:00+01:00</updated>
-   <id>/2020/12/07/photo</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/erasmusbrug.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Eupen</title>
-   <link href="/2020/12/03/photo/"/>
-   <updated>2020-12-03T00:00:00+01:00</updated>
-   <id>/2020/12/03/photo</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/eupen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Boijmans</title>
-   <link href="/2020/12/02/photo/"/>
-   <updated>2020-12-02T00:00:00+01:00</updated>
-   <id>/2020/12/02/photo</id>
+   <title>Boijmans | Rotterdam</title>
+   <link href="/2020/07/01/photo/"/>
+   <updated>2020-07-01T00:00:00+02:00</updated>
+   <id>/2020/07/01/photo</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/boijmans.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>G-wagon</title>
-   <link href="/2020/11/28/photo/"/>
-   <updated>2020-11-28T00:00:00+01:00</updated>
-   <id>/2020/11/28/photo</id>
+   <title>G-wagon | Rotterdam</title>
+   <link href="/2020/06/30/photo/"/>
+   <updated>2020-06-30T00:00:00+02:00</updated>
+   <id>/2020/06/30/photo</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/g-wagon.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Introduction</title>
-   <link href="/2020/11/24/introduction/"/>
-   <updated>2020-11-24T00:00:00+01:00</updated>
-   <id>/2020/11/24/introduction</id>
-   <content type="html">&lt;p&gt;Photos will follow.&lt;/p&gt;
 </content>
  </entry>
  

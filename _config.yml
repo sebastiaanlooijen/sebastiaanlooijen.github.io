@@ -1,6 +1,6 @@
 # Setup
 title: Sebastiaan Looijen 
-tagline: photoblog 
+tagline: photoblog
 paginate: 5
 baseurl: ""
 permalink: pretty
@@ -32,7 +32,7 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Sebastiaan Looijen 
+  name: Sebastiaan
 
 # Custom vars
 version: 3.0.0
