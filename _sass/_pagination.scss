@@ -34,7 +34,7 @@ a.pagination-item:hover {
   }
 
   .pagination-item {
-    float: center;
+    float: left;
     width: 50%;
     border-width: 1px;
 
@@ -44,7 +44,7 @@ a.pagination-item:hover {
       border-bottom-left-radius: var(--border-radius);
     }
     &:last-child {
-      margin-left: -1px;
+      margin-left: 0px;
       border-top-right-radius: var(--border-radius);
       border-bottom-right-radius: var(--border-radius);
     }

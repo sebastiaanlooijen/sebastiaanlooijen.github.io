@@ -4,7 +4,7 @@
  <title>Sebastiaan Looijen</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2021-01-04T10:26:27+01:00</updated>
+ <updated>2021-01-04T10:34:52+01:00</updated>
  <id></id>
  <author>
    <name>Sebastiaan</name>
@@ -26,7 +26,7 @@
    <link href="/2020/07/01/photo/"/>
    <updated>2020-07-01T00:00:00+02:00</updated>
    <id>/2020/07/01/photo</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/boijmans.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/boijmans.jpg&quot; alt=&quot;Boijmans&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -35,7 +35,7 @@
    <link href="/2020/06/30/photo/"/>
    <updated>2020-06-30T00:00:00+02:00</updated>
    <id>/2020/06/30/photo</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/g-wagon.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/g-wagon.jpg&quot; alt=&quot;G-wagon&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
